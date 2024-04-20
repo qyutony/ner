@@ -1,2 +1,3 @@
 # ner
-ner with bert, bilstm, crf, etc.
+NER solution summary:
+
