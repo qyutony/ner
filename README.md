@@ -1,7 +1,7 @@
-# NER
-NER Experiments
+# ner
+ner exp log
 
-| Item | Framework | Exp log |
+| item | framework | exp log |
 | :---: | :---: | :---: |
-| Exp_01 | word2vec, bilstm, crf | TBD |
+| exp_01 | word2vec, bilstm, crf | TBD |
 
